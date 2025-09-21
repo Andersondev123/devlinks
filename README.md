@@ -25,4 +25,3 @@ GitHub: [@andersondev123](https://github.com/andersondev123)
 ---
 
 🛠️ *Projeto baseado no curso Discover da [Rocketseat](https://rocketseat.com.br)*  
-✨ Personalizado por mim com 💻 e dedicação.
