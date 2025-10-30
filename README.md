@@ -3,7 +3,7 @@
 ![Preview do projeto](.github/preview.jpg)
 
 Projeto desenvolvido por **@andersopassos** com HTML, CSS e JavaScript.  
-Personalizado com minha identidade e inspirado no projeto da Rocketseat.
+Personalizado e inspirado no projeto da Rocketseat.
 
 ## 💻 O que é?
 
